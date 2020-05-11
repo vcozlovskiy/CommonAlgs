@@ -1,0 +1,10 @@
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\bin\Debug\CommonAlgs.exe.config
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\bin\Debug\CommonAlgs.exe
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\bin\Debug\CommonAlgs.pdb
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.Form1.resources
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.Properties.Resources.resources
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.exe
+C:\Users\Влад\source\repos\CommonAlgs\CommonAlgs\obj\Debug\CommonAlgs.pdb
